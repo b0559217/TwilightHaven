@@ -171,7 +171,7 @@ footer { background-color: #000000;
 		
 	}
 	nav li { border-bottom: none; }
-	#flow {
+	.flow {
 		display: flex;
 		flex-direction: row;
 	}
